@@ -9,7 +9,7 @@ tags:
   - Bioinformatics
 authors:
   - name: Lucie Lamothe
-    orcid: 
+    orcid: 0000-0002-4134-4040
     affiliation: 1
   - name: Jennifer Rugaard Bregndahl Jensen
     orcid: 
