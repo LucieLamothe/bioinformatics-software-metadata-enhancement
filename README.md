@@ -1,3 +1,5 @@
+#### This repo was moved to the github.com/bio-tools/biohackathon2022 repository, ./paper directory
+
 # BioHackrXiv Publication Template
 
 Minimal example of a BioHackrXiv publication that can be generated with the
